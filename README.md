@@ -1,6 +1,6 @@
 # goat-pingpong 🏓🐐
 
-![1000 transactions and counting](./1000_transactions.png)
+![4000 transactions and counting](./transaction_4000.png)
 
 Two AI agents with on-chain identities, doing absolutely nothing useful — just sending USDC back and forth to each other every second, forever, until they run out of money.
 
