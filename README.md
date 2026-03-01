@@ -1,5 +1,7 @@
 # goat-pingpong 🏓🐐
 
+![1000 transactions and counting](./1000_transactions.png)
+
 Two AI agents with on-chain identities, doing absolutely nothing useful — just sending USDC back and forth to each other every second, forever, until they run out of money.
 
 Watch the [live dashboard](https://goat-dashboard.vercel.app) transaction counter go **brrrrr**.
